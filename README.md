@@ -122,6 +122,10 @@ The app should now be running locally at `http://localhost:3000/`.
 ### 👨‍💻 Created by Ammad Hassan
 
 [LinkedIn](https://www.linkedin.com/in/ammadhassan1/)
+[Link to BaseTip](https://basetip.vercel.app/)
+https://basetip.vercel.app/
+
+
 
 ### Made with ❤️ for Twitch streamers and the crypto community!
 
