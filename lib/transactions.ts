@@ -2,7 +2,7 @@ import { parseEther } from "viem"
 import { publicClient } from "@/lib/wallet"
 
 // Recipient address for all tips
-const RECIPIENT_ADDRESS = "0xD161509B5D4905064097a8Af0a8c2aC78320DeF6"
+const RECIPIENT_ADDRESS = "0xE8C42b0c182d31F06d938a97a969606A7731fFda"
 
 export interface TipParams {
   from: string
